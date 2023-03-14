@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "https://todolist-backend-mu85.onrender.com";
+const baseUrl = "https://todolist-backend-n721.onrender.com";
 
 function getAllToDo(setToDo){
     axios
